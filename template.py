@@ -12,7 +12,7 @@ list_of_files = [
     ".env",
     "requirements.txt",
     "setup.py",
-    "research/trails.ipynb",
+    "research/trials.ipynb",
     "app.py" # endpoint
 ]
 
